@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configralculate",
+        "uuid": 9171680,
+        "checksum": "2drxe"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
